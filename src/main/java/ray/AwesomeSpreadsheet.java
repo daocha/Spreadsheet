@@ -134,11 +134,7 @@ public class AwesomeSpreadsheet {
 	 * print the spreadsheet structure to console
 	 */
 	public void print() {
-		// long time1 = System.currentTimeMillis();
 		System.out.println(this.toString());
-		// long time2 = System.currentTimeMillis();
-		// System.out.println(String.format("Time lapsed: %d ms.", time2 -
-		// time1));
 	}
 
 	/**
