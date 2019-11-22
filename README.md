@@ -9,7 +9,7 @@ Main class:
 
 > Spreadsheet.java
  
-####Using command line to compile and execute:
+#### Using command line to compile and execute:
 
 go to folder  
 
