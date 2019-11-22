@@ -1,5 +1,9 @@
 # Spreadsheet Calculator
 
+
+**Negative numbers are supported**
+
+
 running test:
 ```
 mvn test
