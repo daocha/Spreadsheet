@@ -20,7 +20,6 @@ public class AwesomeSpreadsheetTest {
 	@Test
 	public void test1() throws IOException {
 		verify("test1_in.txt", "test1_out.txt");
-
 	}
 
 	@Test
