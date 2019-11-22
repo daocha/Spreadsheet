@@ -1,16 +1,26 @@
 # Spreadsheet Calculator
 
 running test:
+```
 mvn test
+```
 
 Main class:
 
-**Spreadsheet.java
+> Spreadsheet.java
  
-Using command line to compile and execute:
+####Using command line to compile and execute:
 
-go to folder **src/main/java
+go to folder  
 
-run: **javac Spreadsheet.java
+> src/main/java
 
-execute: **cat spreadsheet.txt | java Spreadsheet
+run: 
+```
+javac Spreadsheet.java
+```
+
+execute: 
+```
+cat spreadsheet.txt | java Spreadsheet
+```
