@@ -1,2 +1,7 @@
 # Spreadsheet
-simulating spreadsheet calculator
+running test:
+mvn test
+
+Main class:
+
+Spreadsheet.java
